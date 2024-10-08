@@ -47,7 +47,7 @@ A system architecture is the conceptual model that defines the structure, behavi
 ![image](https://github.com/user-attachments/assets/df761bdc-212e-4348-8c05-a0b365386234)
 >## MANAGE MEMBERS
 ![image](https://github.com/user-attachments/assets/575eced6-4823-4910-b8e3-f3373063f0b9)
->## MANAGE MEMBERS
+>## MANAGE PERMISSIONS
 ![image](https://github.com/user-attachments/assets/abb85a9b-35f5-47b3-b975-e3899abe1ed7)
 >## MANAGE COMPANY
 ![image](https://github.com/user-attachments/assets/a4e88a62-7e4f-4913-9c31-6b189e5a8ac8)
