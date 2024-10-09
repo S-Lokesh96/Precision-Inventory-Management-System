@@ -1,5 +1,3 @@
-**Log on to codeastro.com for more projects!**
-
 **Database Name: inventorymgtci**
 
 **Admin Login Details** 
@@ -7,17 +5,3 @@
 Email	: admin@gmail.com
 Password: Password@123
 
-**Admin Login Details**
-
-Username: admin
-Password: admin
-
-**Special User Login Details**
-
-Username: special
-Password: special
-
-**User(Employee) Login Details**
-
-Username: user
-Password: user 
