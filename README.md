@@ -28,7 +28,7 @@ Finally, the Logout module provides a secure way to log out of the system, retur
 ># SYSTEM ARCHITECTURE
 ![image](https://github.com/user-attachments/assets/3f25aa31-fa53-4981-a1cf-debc918a7120)
 A system architecture is the conceptual model that defines the structure, behaviour, and more views of a system. In the Precision Inventory Management System, connections are pivotal. Users access inventory data through PIMS, which communicates with the server for real-time updates. The server interacts with the database, ensuring data integrity and accessibility. Additionally, connections facilitate printing and analysis, enabling report generation and insightful analytics. These interconnections form the backbone of efficient inventory management.
-># OUTPUT SCREEN
+># OUTPUT SCREENS
 >## LOGIN PAGE
 ![image](https://github.com/user-attachments/assets/4f722fba-15e1-49d5-adca-1a00081f1cc9)
 >## DASHBOARD
